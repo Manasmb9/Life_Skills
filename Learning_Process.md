@@ -51,6 +51,7 @@ The Feynman Technique is a method of learning that unleashes your potential and 
 Research suggests it takes 10,000 hours to develop a new skill to mastery.
 **Kaufman says:**
 If you can invest 20 hours to learn your new skill, this will help you get over the initial “frustration barrier.”   It’s this “frustration barrier” that holds so many people back from learning new things, exploring new interests, or realizing their potential.
+
 **In order to learn any skill in 20 hours, Josh offers a four-step process with advice from his own experience**
 * Deconstruct the skill
 * Learn enough to self-correct
