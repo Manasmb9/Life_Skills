@@ -27,18 +27,13 @@ The Feynman Technique is a method of learning that unleashes your potential and 
 ## Question 3:
 ### Paraphrase the video in detail in your own words?
 
-**FOCUS/DON’T** 
+* The brain has two modes of thinking that Dr. Oakley simplifies as *focused* in which learners concentrate on the material, and *diffuse* a neural resting state in which consolidation occurs ,that is, the new information can settle into the brain. 
 
-The brain has two modes of thinking that Dr. Oakley simplifies as *focused* in which learners concentrate on the material, and *diffuse* a neural resting state in which consolidation occurs ,that is, the new information can settle into the brain. 
+* To accomplish those periods of focused and diffuse-mode thinking, Dr. Oakley recommends what is known as the Pomodoro Technique, developed by one Francesco Cirillo.  
 
-**TAKE A BREAK** 
+* Dr. Oakley teaches that even thinking about doing things we dislike activates the pain centers of the brain. The Pomodoro Technique, she said,helps the mind slip into focus and begin work without thinking about the work.
 
-To accomplish those periods of focused and diffuse-mode thinking, Dr. Oakley recommends what is known as the Pomodoro Technique, developed by one Francesco Cirillo.  
-
-Dr. Oakley teaches that even thinking about doing things we dislike activates the pain centers of the brain. The Pomodoro Technique, she said,helps the mind slip into focus and begin work without thinking about the work.
-
-**KNOW THYSELF** 
-Dr. Oakley urges her students to understand that people learn in different ways. Those who have “racecar brains” snap up information; those with “hiker brains” take longer to assimilate information but, like a hiker, perceive more details along the way. 
+* Dr. Oakley urges her students to understand that people learn in different ways. Those who have “racecar brains” snap up information; those with “hiker brains” take longer to assimilate information but, like a hiker, perceive more details along the way. 
 
 ## Question 4:
 ### What are some of the steps that you can take to improve your learning process?
