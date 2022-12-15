@@ -49,11 +49,38 @@ Growth Mindset:
 ## 3. Understanding Internal Locus of Control
 ## Question 5
 #### What is the Internal Locus of Control? What is the key point in the video?
+* Internal locus of control is the key to staying motivated.
+* Build up the belief that you are in control of your destiny, that you have an internal locus of control, 
+and you will never have issues with motivation in your life.
+
+The three best ways to be followed to adopt Internal Locus of Control and to start being motivated are:
+* Solving Problems in one’s Life
+* Taking Time to Appreciate one’s actions
+* Noticing improvements and efforts taken by an individual
 ## 3. How to build a Growth Mindset
 ## Question 6
 #### Paraphrase the video in a few lines in your own words.
+* Brendon says that "A growth mindset requires you to have a clear objective. Instead of saying ‘I’ll get better eventually’, be more specific. Say: 'I’m going to get better at that testI’m going to be more active.' Set a clear outcome, and you'll experience true growth.”
+* Growth mindset see opportunities instead of obstacles, choosing to challenge themselves to learn more rather than sticking in their comfort zone.
+* A growth mindset allows you to explore more, take more risks, try new things, and grow more into what you’re capable of.
+* To achieve a growth mindset, making a development plan is crucial. 
 ## Question 7
 #### What are your key takeaways from the video to take action on?
+Growth mindset means that you thrive on challenge, and don’t see failure as a way to describe yourself but as a springboard for growth and developing your abilities. Your intelligence and talents are all susceptible to growth.
+To develop a Growth mindset:
+* Believe in your ability to figure things out.
+* Question your negative assumptions.
+* Create your own curriculum for skill development.
+* Honor the struggle.
 ## 4. Mindset - A MountBlue Warrior Reference Manual
 ## Question 8
 #### What are one or more points that you want to take action on from the manual?
+* I will not leave my code unfinished till I complete the following checklist:  
+   1. Make it work.  
+   2. Make it readable.  
+   3. Make it modular.  
+   4. Make it efficient.  
+* I will stay relaxed and focused no matter what happens.
+* I will treat new concepts and situations as learning opportunities. I will never get pressurized by any concept or situation.
+
+
