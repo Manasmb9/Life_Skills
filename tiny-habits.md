@@ -46,12 +46,12 @@ James Clear said that In the beginning, there is basically no difference between
 
 ## Question 6
 #### Write about the book's perspective on habit formation from the lens of Identity, processes and outcomes?
-* There are three layers of behavior change: a change in your outcomes, a change in your processes, or a change in your identity.
-**The first layer is changing your outcomes.** This level is concerned with changing your results: losing weight, publishing a book, winning a championship. Most of the goals you set are associated with this level of change.
+There are three layers of behavior change: a change in your outcomes, a change in your processes, or a change in your identity.
+* **The first layer is changing your outcomes.** This level is concerned with changing your results: losing weight, publishing a book, winning a championship. Most of the goals you set are associated with this level of change.
 
-**The second layer is changing your process.** This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level.
+* **The second layer is changing your process.** This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level.
 
-**The third and deepest layer is changing your identity.** This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level.
+* **The third and deepest layer is changing your identity.** This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level.
 ## Question 7
 #### Write about the book's perspective on how to make a good habit easier?
 Habit is a tendency to do something, whether harmful or health-promoting.
